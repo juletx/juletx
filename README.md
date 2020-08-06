@@ -1,4 +1,4 @@
-### Hi there 👋
+### Estudiante de Ingeniería Informática en UPV/EHU
 
 <!--
 **juletx/juletx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
