@@ -110,6 +110,7 @@
 <details open>
 <summary></summary>
 <!--START_SECTION:activity-->
+1. 💪 Opened PR [#1810](https://github.com//gcushen/hugo-academic/pull/1810) in [gcushen/hugo-academic](https://github.com//gcushen/hugo-academic)
 <!--END_SECTION:activity-->
 </details>
 
