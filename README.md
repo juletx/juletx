@@ -106,6 +106,13 @@
 <details open>
 <summary></summary>
 
+<h3 align="left">Recent Activity</h3>
+<details open>
+<summary></summary>
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+</details>
+
 <h3 align="left">Stats (Public and Private Repositories)</h3>
 <details open>
 <summary></summary>
