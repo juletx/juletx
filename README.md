@@ -15,8 +15,9 @@
 
 <hr />
 
+<h2 align="left">About</h2>
 <details open>
-<summary><h2 align="left" style="display: inline-block">About</h2></summary>
+<summary></summary>
 
 - 🔭 I’m currently working on [academic-kickstart](https://github.com/juletx/academic-kickstart)
 
@@ -40,8 +41,9 @@
 
 <hr />
 
+<h2 align="left">Skills</h2>
 <details open>
-<summary><h2 align="left" style="display: inline-block">Skills</h2></summary>
+<summary></summary>
 
 <h3 align="left">Programming Languages</h3>
 <p align="left">
@@ -100,21 +102,25 @@
 
 <hr />
 
+<h2 align="left">GitHub</h2>
 <details open>
-<summary><h2 align="left" style="display: inline-block">GitHub</h2></summary>
+<summary></summary>
 
+<h3 align="left">Stats (Public and Private Repositories)</h3>
 <details open>
-<summary><h3 align="left" style="display: inline-block">Stats (Public and Private Repositories)</h3></summary>
+<summary></summary>
 <p align="left"><img src="https://github-readme-stats.vercel.app/api?username=juletx&show_icons=true&count_private=true)" alt="stats" /></p>
 </details>
 
+<h3 align="left">Languages (Public Repositories)</h3>
 <details open>
-<summary><h3 align="left" style="display: inline-block">Languages (Public Repositories)</h3></summary>
+<summary></summary>
 <p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juletx&layout=compact" alt="languages" /></p>
 </details>
 
+<h3 align="left">Pinned Repositories</h3>
 <details open>
-<summary><h3 align="left" style="display: inline-block">Pinned Repositories</h3></summary>
+<summary></summary>
 <p align="left"><a href="https://github.com/juletx/juletx.github.io" target="blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=juletx&repo=juletx.github.io" alt="pinned" /></a></p>
 <p align="left"><a href="https://github.com/juletx/academic-kickstart" target="blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=juletx&repo=academic-kickstart" alt="pinned" /></a></p>
 </details>
