@@ -94,10 +94,14 @@
 
 <hr />
 
-<h2 align="left">GitHub Stats</h2>
+<h2 align="left">GitHub</h2>
 
-<h3 align="left">Public Repositories</h3>
-<p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juletx&layout=compact" alt="juletx" /></p>
+<h3 align="left">Stats (Public and Private Repositories)</h3>
+<p align="left"><img src="https://github-readme-stats.vercel.app/api?username=juletx&show_icons=true&count_private=true)" alt="stats" /></p>
 
-<h3 align="left">Public and Private Repositories</h3>
-<p align="left"><img src="https://github-readme-stats.vercel.app/api?username=juletx&show_icons=true&count_private=true)" alt="juletx" /></p>
+<h3 align="left">Languages (Public Repositories)</h3>
+<p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juletx&layout=compact" alt="languages" /></p>
+
+<h3 align="left">Pinned Repositories</h3>
+<p align="left"><a href="https://github.com/juletx/juletx.github.io" target="blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=juletx&repo=juletx.github.io" alt="pinned" /></a></p>
+<p align="left"><a href="https://github.com/juletx/academic-kickstart" target="blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=juletx&repo=academic-kickstart" alt="pinned" /></a></p>
