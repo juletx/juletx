@@ -33,7 +33,7 @@
 
 <!-- - 💬 Ask me about  -->
 
-- 📫 Reach me at [juletxara@gmail.com](mailto:juletxara@gmail.com)
+<!-- - 📫 Reach me at [juletxara@gmail.com](mailto:juletxara@gmail.com) -->
 
 <!-- - ⚡ Fun fact  -->
 
@@ -47,33 +47,33 @@
 
 <h3 align="left">Programming Languages</h3>
 <p align="left">
-	<img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="30" height="30"/>
-	<img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/>
-	<img src="https://devicons.github.io/devicon/devicon.git/icons/php/php-original.svg" alt="php" width="30" height="30"/>
-	<img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="30" height="30"/>
-	<img src="https://devicons.github.io/devicon/devicon.git/icons/csharp/csharp-original.svg" alt="csharp" width="30" height="30"/>
+	<a href="https://github.com/topics/java" target="blank"><img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="30" height="30"/></a>
+	<a href="https://github.com/topics/javascript" target="blank"><img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/></a>
+	<a href="https://github.com/topics/php" target="blank"><img src="https://devicons.github.io/devicon/devicon.git/icons/php/php-original.svg" alt="php" width="30" height="30"/></a>
+	<a href="https://github.com/topics/python" target="blank"><img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="30" height="30"/></a>
+  <a href="https://github.com/topics/sql" target="blank"><img src=https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png alt="python" width="30" height="30"/></a>
 </p>
 
 <h3 align="left">Frontend Development</h3>
 <p align="left">
-	<img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="30" height="30"/>
-	<img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="30" height="30"/>
-	<img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="30" height="30"/>
+	<a href="https://github.com/topics/html" target="blank"><img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="30" height="30"/></a>
+	<a href="https://github.com/topics/css" target="blank"><img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="30" height="30"/></a>
+	<a href="https://github.com/topics/bootstrap" target="blank"><img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="30" height="30"/></a>
 </p>
 
 <!-- <h3 align="left">Backend Development</h3> -->
 
 <h3 align="left">Mobile Development</h3>
 <p align="left">
-	<img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/xamarin.svg" alt="xamarin" width="30" height="30"/>
+	<a href="https://github.com/topics/xamarin" target="blank"><img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/xamarin.svg" alt="xamarin" width="30" height="30"/></a>
 </p>
 
 <!-- <h3 align="left">AI/ML</h3> -->
 
 <h3 align="left">Databases</h3>
 <p align="left">
-	<img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="30" height="30"/>
-	<img src="https://devicons.github.io/devicon/devicon.git/icons/oracle/oracle-original.svg" alt="oracle" width="30" height="30"/>
+	<a href="https://github.com/topics/mysql" target="blank"><img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="30" height="30"/></a>
+	<a href="https://github.com/topics/oracle" target="blank"><img src="https://devicons.github.io/devicon/devicon.git/icons/oracle/oracle-original.svg" alt="oracle" width="30" height="30"/></a>
 </p>
 
 <!-- <h3 align="left">Data Visualization</h3> -->
@@ -84,18 +84,22 @@
 
 <h3 align="left">Frameworks</h3>
 <p align="left">
-	<img src="https://devicons.github.io/devicon/devicon.git/icons/django/django-original.svg" alt="django" width="30" height="30"/>
-	<img src="https://devicons.github.io/devicon/devicon.git/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="30" height="30"/>
+	<a href="https://github.com/topics/django" target="blank"><img src="https://devicons.github.io/devicon/devicon.git/icons/django/django-original.svg" alt="django" width="30" height="30"/></a>
+	<a href="https://github.com/topics/dotnet" target="blank"><img src="https://devicons.github.io/devicon/devicon.git/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="30" height="30"/></a>
 </p>
 
 <!-- <h3 align="left">Software</h3> -->
 
-<!-- <h3 align="left">Static Site Generators</h3> -->
+<h3 align="left">Static Site Generators</h3>
+<p align="left">
+  <a href="https://github.com/topics/hugo" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hugo.svg" alt="hugo" width="30" height="30"/></a>
+	<a href="https://github.com/topics/jekyll" target="blank"><img src=https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jekyll/jekyll.png alt="jekyll" width="jekyll" height="30"/></a>
+</p>
 
 <h3 align="left">Source Control</h3>
 <p align="left">
-	<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30"/>
-	<img src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" alt="git" width="30" height="30"/>
+	<a href="https://github.com/topics/git" target="blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30"/></a>
+	<a href="https://github.com/topics/github" target="blank"><img src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" alt="github" width="30" height="30"/></a>
 </p>
 
 </details>
@@ -115,13 +119,13 @@
 <!--END_SECTION:activity-->
 </details>
 
-<h3 align="left">Stats (Public and Private Repositories)</h3>
+<h3 align="left">Stats</h3>
 <details open>
 <summary></summary>
-<p align="left"><img src="https://github-readme-stats.vercel.app/api?username=juletx&show_icons=true&count_private=true)" alt="stats" /></p>
+<p align="left"><img src="https://github-readme-stats.vercel.app/api?username=juletx&show_icons=true&count_private=true" alt="stats" /></p>
 </details>
 
-<h3 align="left">Languages (Public Repositories)</h3>
+<h3 align="left">Languages</h3>
 <details open>
 <summary></summary>
 <p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juletx&layout=compact" alt="languages" /></p>
