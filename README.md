@@ -3,12 +3,13 @@
 <h3 align="center">Student of BS in Informatics Engineering at the <a href="https://www.ehu.eus/en/en-home" target="blank">University of the Basque Country (UPV/EHU)</a></h3>
 
 <p align="center">
-<a href="https://juletx.github.io" target="blank"><img align="center" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="website" height="30" width="30" /></a>
-<a href="https://twitter.com/juletxara" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="twitter" height="30" width="30" /></a>
-<a href="https://www.linkedin.com/in/juletxara/?locale=en_US" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="30" width="30" /></a>
-<a href="https://stackoverflow.com/users/12519473" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="stackoverflow" height="30" width="30" /></a>
-<a href="https://fb.com/juletxara" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="facebook" height="30" width="30" /></a>
-<a href="https://instagram.com/juletxara" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="instagram" height="30" width="30" /></a>
+  <a href="https://julenetxaniz.eus" target="blank"><img align="center" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="website" height="30" width="30" /></a>
+  <a href="https://www.linkedin.com/in/juletxara/?locale=en_US" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="30" width="30" /></a>
+  <a href="https://twitter.com/juletxara" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="twitter" height="30" width="30" /></a>
+  <a href="https://instagram.com/juletxara" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="instagram" height="30" width="30" /></a>
+  <a href="https://fb.com/juletxara" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="facebook" height="30" width="30" /></a>
+  <a href="https://stackoverflow.com/users/12519473" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="stackoverflow" height="30" width="30" /></a>
+  <a href="https://hackerrank.com/juletxara" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="hackerrank" height="30" width="30" /></a>
 </p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=juletx" alt="juletx" /> </p>
