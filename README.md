@@ -52,7 +52,7 @@
 	<a href="https://github.com/topics/javascript" target="blank"><img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/></a>
 	<a href="https://github.com/topics/php" target="blank"><img src="https://devicons.github.io/devicon/devicon.git/icons/php/php-original.svg" alt="php" width="30" height="30"/></a>
 	<a href="https://github.com/topics/python" target="blank"><img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="30" height="30"/></a>
-  <a href="https://github.com/topics/sql" target="blank"><img src=https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png alt="python" width="30" height="30"/></a>
+  <a href="https://github.com/topics/sql" target="blank"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" alt="sql" width="30" height="30"/></a>
 </p>
 
 <h3 align="left">Frontend Development</h3>
@@ -94,7 +94,7 @@
 <h3 align="left">Static Site Generators</h3>
 <p align="left">
   <a href="https://github.com/topics/hugo" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hugo.svg" alt="hugo" width="30" height="30"/></a>
-	<a href="https://github.com/topics/jekyll" target="blank"><img src=https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jekyll/jekyll.png alt="jekyll" width="jekyll" height="30"/></a>
+	<a href="https://github.com/topics/jekyll" target="blank"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jekyll/jekyll.png" alt="jekyll" width="jekyll" height="30"/></a>
 </p>
 
 <h3 align="left">Source Control</h3>
