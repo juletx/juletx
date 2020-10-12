@@ -18,8 +18,7 @@
 
 <hr />
 
-<details open>
-<summary align="center"><h2>Skills</h2></summary>
+<h2 align="center">Skills</h2>
 
 <h3 align="center">Programming Languages</h3>
 <p align="center">
@@ -69,7 +68,7 @@
 <h3 align="center">Static Site Generators</h3>
 <p align="center">
   <a href="https://github.com/topics/hugo" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hugo.svg" alt="hugo" width="30" height="30"/></a>
-	<a href="https://github.com/topics/jekyll" target="blank"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jekyll/jekyll.png" alt="jekyll" width="jekyll" height="30"/></a>
+	<a href="https://github.com/topics/jekyll" target="blank"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jekyll/jekyll.png" alt="jekyll" width="30" height="30"/></a>
 </p>
 
 <h3 align="center">Source Control</h3>
@@ -78,49 +77,37 @@
 	<a href="https://github.com/topics/github" target="blank"><img src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" alt="github" width="30" height="30"/></a>
 </p>
 
-</details>
-
 <hr />
 
-<details open>
-<summary align="center"><h2>GitHub</h2></summary>
+<h2 align="center">GitHub</h2>
 
-<details open>
-<summary align="center"><h3>Current Activity</h3></summary>
+<h3 align="center">Current Activity</h3>
 
 <p align="center">🔭 I’m currently working on <a href="https://github.com/juletx/academic-kickstart" target="blank">academic-kickstart</a></p>
 
-<p align="center">🌱 I’m currently learning <a href="https://github.com/gcushen/hugo-academic" target="blank">hugo-academic</a></p>
+<p align="center">🌱 I’m currently learning <a href="https://github.com/wowchemy/wowchemy-hugo-modules" target="blank">wowchemy-hugo-modules</a></p>
 
-<p align="center">👯 I’m looking to collaborate on <a href="https://github.com/gcushen/hugo-academic" target="blank">hugo-academic</a></p>
+<p align="center">👯 I’m looking to collaborate on <a href="https://github.com/wowchemy/wowchemy-hugo-modules" target="blank">wowchemy-hugo-modules</a></p>
 
 <!-- <p align="center">🤝 I’m looking for help with <a href="https://github.com/juletx/academic-kickstart" target="blank">academic-kickstart</a></p> -->
 
-<p align="center">👨‍💻 My projects are available at <a href="https://juletx.github.io" target="blank">juletx.github.io</a></p>
-
-</details>
+<p align="center">👨‍💻 My projects are available at <a href="https://julenetxaniz.eus" target="blank">julenetxaniz.eus</a> or <a href="https://juletx.github.io" target="blank">juletx.github.io</a></p>
 
 <hr />
 
-<details open>
-<summary align="center"><h3>Stats</h3></summary>
+<h3 align="center">Stats</h3>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=juletx&show_icons=true&count_private=true" alt="stats" /></p>
 </details>
 
 <hr />
 
-<details open>
-<summary align="center"><h3>Languages</h3></summary>
+<h3 align="center">Languages</h3>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juletx&layout=compact" alt="languages" /></p>
 </details>
 
 <hr />
 
-<details open>
-<summary align="center"><h3>Pinned Repositories</h3></summary>
+<h3 align="center">Pinned Repositories</h3>
 <p align="center"><a href="https://github.com/juletx/juletx.github.io" target="blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=juletx&repo=juletx.github.io" alt="pinned" /></a></p>
 <p align="center"><a href="https://github.com/juletx/academic-kickstart" target="blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=juletx&repo=academic-kickstart" alt="pinned" /></a></p>
-</details>
-
-</details>
