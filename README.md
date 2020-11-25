@@ -106,6 +106,6 @@
 
 <hr />
 
-<h3 align="center">Pinned Repositories</h3>
+<!--h3 align="center">Pinned Repositories</h3>
 <p align="center"><a href="https://github.com/juletx/juletx.github.io" target="blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=juletx&repo=juletx.github.io" alt="pinned" /></a></p>
-<p align="center"><a href="https://github.com/juletx/academic-website" target="blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=juletx&repo=academic-website" alt="pinned" /></a></p>
+<p align="center"><a href="https://github.com/juletx/academic-website" target="blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=juletx&repo=academic-website" alt="pinned" /></a></p-->
