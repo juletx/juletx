@@ -64,22 +64,16 @@
 
 <p align="center">👨‍💻 My projects are available at <a href="https://julenetxaniz.eus" target="blank">julenetxaniz.eus</a> or <a href="https://juletx.github.io" target="blank">juletx.github.io</a></p>
 
-<hr />
+<h2 align="center">GitHub Stats</h2>
 
-<h2 align="center">Stats</h2>
+<p align="center"><a href="https://github.com/anuraghazra/github-readme-stats" target="blank"><img src="https://github-readme-stats.vercel.app/api?username=juletx&show_icons=true&count_private=true&include_all_commits=true&theme=dracula&custom_title=GitHub Stats" alt="GitHub Stats" /></a></p>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=juletx&show_icons=true&count_private=true&include_all_commits=true&theme=dracula" alt="stats" /></p>
+<h2 align="center">GitHub Trophies</h2>
 
-<hr />
+<p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy" target="blank"><img src="https://github-profile-trophy.vercel.app/?username=juletx&margin-w=15&theme=dracula" alt="GitHub Trophies" /></a></p>
 
-<h2 align="center">Trophies</h2>
-
-<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=juletx&margin-w=15&theme=dracula" alt="trophies" /></p>
-
-<hr />
-
-<h2 align="center">Languages</h2>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juletx&layout=compact&langs_count=10&theme=dracula" alt="languages" /></p>
+<h2 align="center">Top Languages</h2>
+<p align="center"><a href="https://github.com/anuraghazra/github-readme-stats" target="blank"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juletx&layout=compact&langs_count=10&theme=dracula&custom_title=Top Languages" alt="Top Languages" /></a></p>
 
 <!--h3 align="center">Pinned Repositories</h3>
 <p align="center"><a href="https://github.com/juletx/juletx.github.io" target="blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=juletx&repo=juletx.github.io" alt="pinned" /></a></p>
