@@ -54,9 +54,7 @@
 
 <hr />
 
-<h2 align="center">GitHub</h2>
-
-<h3 align="center">Current Activity</h3>
+<h2 align="center">Current Activity</h2>
 
 <p align="center">🔭 I’m currently working on <a href="https://github.com/juletx/academic-website" target="blank">academic-website</a></p>
 
@@ -68,14 +66,20 @@
 
 <hr />
 
-<h3 align="center">Stats</h3>
+<h2 align="center">Stats</h2>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=juletx&show_icons=true&count_private=true" alt="stats" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=juletx&show_icons=true&count_private=true&include_all_commits=true&theme=dracula" alt="stats" /></p>
 
 <hr />
 
-<h3 align="center">Languages</h3>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juletx&layout=compact" alt="languages" /></p>
+<h2 align="center">Trophies</h2>
+
+<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=juletx&margin-w=15&theme=dracula" alt="trophies" /></p>
+
+<hr />
+
+<h2 align="center">Languages</h2>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juletx&layout=compact&langs_count=10&theme=dracula" alt="languages" /></p>
 
 <!--h3 align="center">Pinned Repositories</h3>
 <p align="center"><a href="https://github.com/juletx/juletx.github.io" target="blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=juletx&repo=juletx.github.io" alt="pinned" /></a></p>
