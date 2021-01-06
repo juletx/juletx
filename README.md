@@ -22,18 +22,18 @@
 
 <h3 align="center">Programming Languages</h3>
 <p align="center">
-	<a href="https://github.com/topics/java" target="blank"><img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="30" height="30"/></a>
-	<a href="https://github.com/topics/javascript" target="blank"><img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/></a>
-	<a href="https://github.com/topics/php" target="blank"><img src="https://devicons.github.io/devicon/devicon.git/icons/php/php-original.svg" alt="php" width="30" height="30"/></a>
-	<a href="https://github.com/topics/python" target="blank"><img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="30" height="30"/></a>
+	<a href="https://github.com/topics/java" target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.8.2/icons/java/java-original-wordmark.svg" alt="java" width="30" height="30"/></a>
+	<a href="https://github.com/topics/javascript" target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.8.2/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/></a>
+	<a href="https://github.com/topics/php" target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.8.2/icons/php/php-original.svg" alt="php" width="30" height="30"/></a>
+	<a href="https://github.com/topics/python" target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.8.2/icons/python/python-original.svg" alt="python" width="30" height="30"/></a>
   <a href="https://github.com/topics/sql" target="blank"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" alt="sql" width="30" height="30"/></a>
 </p>
 
 <h3 align="center">Frontend Development</h3>
 <p align="center">
-	<a href="https://github.com/topics/html" target="blank"><img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="30" height="30"/></a>
-	<a href="https://github.com/topics/css" target="blank"><img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="30" height="30"/></a>
-	<a href="https://github.com/topics/bootstrap" target="blank"><img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="30" height="30"/></a>
+	<a href="https://github.com/topics/html" target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.8.2/icons/html5/html5-original-wordmark.svg" alt="html5" width="30" height="30"/></a>
+	<a href="https://github.com/topics/css" target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.8.2/icons/css3/css3-original-wordmark.svg" alt="css3" width="30" height="30"/></a>
+	<a href="https://github.com/topics/bootstrap" target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.8.2/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="30" height="30"/></a>
 </p>
 
 <!-- <h3 align="center">Backend Development</h3> -->
@@ -47,8 +47,8 @@
 
 <h3 align="center">Databases</h3>
 <p align="center">
-	<a href="https://github.com/topics/mysql" target="blank"><img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="30" height="30"/></a>
-	<a href="https://github.com/topics/oracle" target="blank"><img src="https://devicons.github.io/devicon/devicon.git/icons/oracle/oracle-original.svg" alt="oracle" width="30" height="30"/></a>
+	<a href="https://github.com/topics/mysql" target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.8.2/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="30" height="30"/></a>
+	<a href="https://github.com/topics/oracle" target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.8.2/icons/oracle/oracle-original.svg" alt="oracle" width="30" height="30"/></a>
 </p>
 
 <!-- <h3 align="center">Data Visualization</h3> -->
@@ -59,8 +59,8 @@
 
 <h3 align="center">Frameworks</h3>
 <p align="center">
-	<a href="https://github.com/topics/django" target="blank"><img src="https://devicons.github.io/devicon/devicon.git/icons/django/django-original.svg" alt="django" width="30" height="30"/></a>
-	<a href="https://github.com/topics/dotnet" target="blank"><img src="https://devicons.github.io/devicon/devicon.git/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="30" height="30"/></a>
+	<a href="https://github.com/topics/django" target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.8.2/icons/django/django-original.svg" alt="django" width="30" height="30"/></a>
+	<a href="https://github.com/topics/dotnet" target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.8.2/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="30" height="30"/></a>
 </p>
 
 <!-- <h3 align="center">Software</h3> -->
