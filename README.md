@@ -75,6 +75,9 @@
 <h2 align="center">Top Languages</h2>
 <p align="center"><a href="https://github.com/anuraghazra/github-readme-stats" target="blank"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juletx&layout=compact&langs_count=10&theme=dracula&custom_title=Top Languages" alt="Top Languages" /></a></p>
 
+<h2 align="center">Weekly Top Languages</h2>
+<p align="center"><a href="https://github.com/anuraghazra/github-readme-stats" target="blank"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=juletxara&layout=compact&theme=dracula&custom_title=Weekly Top Languages" alt="Weekly Top Languages" /></a></p>
+
 <!--h3 align="center">Pinned Repositories</h3>
 <p align="center"><a href="https://github.com/juletx/juletx.github.io" target="blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=juletx&repo=juletx.github.io" alt="pinned" /></a></p>
 <p align="center"><a href="https://github.com/juletx/academic-website" target="blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=juletx&repo=academic-website" alt="pinned" /></a></p-->
