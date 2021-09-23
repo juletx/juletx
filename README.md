@@ -1,22 +1,16 @@
 <h1 align="center">Julen Etxaniz</h1>
 
-<h2 align="center">Student of BS in Informatics Engineering</h2>
-
-<h3 align="center"><a href="https://www.ehu.eus/en/en-home" target="blank">University of the Basque Country (UPV/EHU)</a></h3>
+<h2 align="center">Student in Master in Language Analysis and Processing at UPV/EHU. Graduate in Informatics Engineering.</h2>
 
 <p align="center">
   <a href="https://julenetxaniz.eus" target="blank"><img src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="website" height="30" width="30" /></a>
   <a href="https://www.linkedin.com/in/juletxara" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="30" width="30" /></a>
   <a href="https://twitter.com/juletxara" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="twitter" height="30" width="30" /></a>
   <a href="https://instagram.com/juletxara" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="instagram" height="30" width="30" /></a>
-  <a href="https://fb.com/juletxara" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="facebook" height="30" width="30" /></a>
-  <a href="https://stackoverflow.com/users/12519473" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="stackoverflow" height="30" width="30" /></a>
-  <a href="https://hackerrank.com/juletxara" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="hackerrank" height="30" width="30" /></a>
+  <a href="mailto:juletxara@gmail.com" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="instagram" height="30" width="30" /></a>
 </p>
 
 <!--p align="center"> <img src="https://komarev.com/ghpvc/?username=juletx" alt="juletx" /> </p-->
-
-<hr />
 
 <h2 align="center">Skills</h2>
 
@@ -51,18 +45,6 @@
     <a href="https://github.com/topics/mysql" target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.8.2/icons/mysql/mysql-original.svg" alt="mysql" width="30" height="30"/></a>
 	<a href="https://github.com/topics/oracle" target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.8.2/icons/oracle/oracle-original.svg" alt="oracle" width="30" height="30"/></a>
 </p>
-
-<hr />
-
-<h2 align="center">Current Activity</h2>
-
-<p align="center">🔭 I’m currently working on <a href="https://github.com/juletx/academic-website" target="blank">academic-website</a></p>
-
-<p align="center">🌱 I’m currently learning <a href="https://github.com/wowchemy/wowchemy-hugo-modules" target="blank">wowchemy-hugo-modules</a></p>
-
-<p align="center">👯 I’m looking to collaborate on <a href="https://github.com/wowchemy/wowchemy-hugo-modules" target="blank">wowchemy-hugo-modules</a></p>
-
-<p align="center">👨‍💻 My projects are available at <a href="https://julenetxaniz.eus" target="blank">julenetxaniz.eus</a> or <a href="https://juletx.github.io" target="blank">juletx.github.io</a></p>
 
 <h2 align="center">GitHub Stats</h2>
 
