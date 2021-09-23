@@ -1,6 +1,6 @@
 <h1 align="center">Julen Etxaniz</h1>
 
-<h2 align="center">Student in Master in Language Analysis and Processing at UPV/EHU. Graduate in Informatics Engineering.</h2>
+<h2 align="center">Student in Master in Language Analysis and Processing at UPV/EHU <br>Graduate in Informatics Engineering</h2>
 
 <p align="center">
   <a href="https://julenetxaniz.eus" target="blank"><img src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="website" height="30" width="30" /></a>
