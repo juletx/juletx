@@ -1,4 +1,4 @@
-<a href="https://julenetxaniz.eus/en/" target="blank"><h1 align="center">Julen Etxaniz</h1></a>
+<h1 align="center"><a href="https://julenetxaniz.eus/en/" target="blank">Julen Etxaniz</a></h1>
 
 <h2 align="center">Student in Master in Language Analysis and Processing at UPV/EHU <br>Graduate in Informatics Engineering</h2>
 
@@ -15,7 +15,3 @@
 
 <h2 align="center">Weekly Top Languages</h2>
 <p align="center"><a href="https://github.com/anuraghazra/github-readme-stats" target="blank"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=juletxara&layout=compact&langs_count=10&theme=dracula&custom_title=Weekly Top Languages" alt="Weekly Top Languages" /></a></p>
-
-<!--h3 align="center">Pinned Repositories</h3>
-<p align="center"><a href="https://github.com/juletx/juletx.github.io" target="blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=juletx&repo=juletx.github.io" alt="pinned" /></a></p>
-<p align="center"><a href="https://github.com/juletx/academic-website" target="blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=juletx&repo=academic-website" alt="pinned" /></a></p-->
