@@ -1,50 +1,6 @@
-<h1 align="center">Julen Etxaniz</h1>
+<a href="https://julenetxaniz.eus/en/" target="blank"><h1 align="center">Julen Etxaniz</h1></a>
 
 <h2 align="center">Student in Master in Language Analysis and Processing at UPV/EHU <br>Graduate in Informatics Engineering</h2>
-
-<p align="center">
-  <a href="https://julenetxaniz.eus" target="blank"><img src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="website" height="30" width="30" /></a>
-  <a href="https://www.linkedin.com/in/juletxara" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="30" width="30" /></a>
-  <a href="https://twitter.com/juletxara" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="twitter" height="30" width="30" /></a>
-  <a href="https://instagram.com/juletxara" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="instagram" height="30" width="30" /></a>
-  <a href="mailto:juletxara@gmail.com" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="instagram" height="30" width="30" /></a>
-</p>
-
-<!--p align="center"> <img src="https://komarev.com/ghpvc/?username=juletx" alt="juletx" /> </p-->
-
-<h2 align="center">Skills</h2>
-
-<h3 align="center">Programming Languages</h3>
-<p align="center">
-	<a href="https://github.com/topics/java" target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.8.2/icons/java/java-original.svg" alt="java" width="30" height="30"/></a>
-	<a href="https://github.com/topics/javascript" target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.8.2/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/></a>
-	<a href="https://github.com/topics/php" target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.8.2/icons/php/php-original.svg" alt="php" width="30" height="30"/></a>
-	<a href="https://github.com/topics/python" target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.8.2/icons/python/python-original.svg" alt="python" width="30" height="30"/></a>
-    <a href="https://github.com/topics/sql" target="blank"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" alt="sql" width="30" height="30"/></a>
-</p>
-
-<h3 align="center">Web Development</h3>
-<p align="center">
-	<a href="https://github.com/topics/html" target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.8.2/icons/html5/html5-original.svg" alt="html5" width="30" height="30"/></a>
-	<a href="https://github.com/topics/css" target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.8.2/icons/css3/css3-original.svg" alt="css3" width="30" height="30"/></a>
-	<a href="https://github.com/topics/bootstrap" target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.8.2/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="30" height="30"/></a>
-    <a href="https://github.com/topics/hugo" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hugo.svg" alt="hugo" width="30" height="30"/></a>
-    <a href="https://github.com/topics/django" target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.8.2/icons/django/django-original.svg" alt="django" width="30" height="30"/></a>
-	<a href="https://github.com/topics/dotnet" target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.8.2/icons/dot-net/dot-net-original.svg" alt="dotnet" width="30" height="30"/></a>
-</p>
-
-<!-- <h3 align="center">Software Engineering</h3> -->
-
-<!-- <h3 align="center">Machine Learning</h3> -->
-
-<h3 align="center">Tools</h3>
-<p align="center">
-	<a href="https://github.com/topics/git" target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.8.2/icons/git/git-original.svg" alt="git" width="30" height="30"/></a>
-	<a href="https://github.com/topics/github" target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.8.2/icons/github/github-original.svg" alt="github" width="30" height="30"/></a>
-    <a href="https://github.com/topics/xamarin" target="blank"><img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/xamarin.svg" alt="xamarin" width="30" height="30"/></a>
-    <a href="https://github.com/topics/mysql" target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.8.2/icons/mysql/mysql-original.svg" alt="mysql" width="30" height="30"/></a>
-	<a href="https://github.com/topics/oracle" target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.8.2/icons/oracle/oracle-original.svg" alt="oracle" width="30" height="30"/></a>
-</p>
 
 <h2 align="center">GitHub Stats</h2>
 
