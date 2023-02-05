@@ -1,6 +1,6 @@
 <h1 align="center"><a href="https://julenetxaniz.eus/en/" target="blank">Julen Etxaniz</a></h1>
 
-<h2 align="center">Student in Master in Language Analysis and Processing at UPV/EHU <br>Graduate in Informatics Engineering</h2>
+<h2 align="center">PhD Student in Language Analysis and Processing at Hitz Zentroa UPV/EHU <br>Graduate in Computer Engineering <br>Master in Language Analysis and Processing</h2>
 
 <h2 align="center">GitHub Stats</h2>
 
