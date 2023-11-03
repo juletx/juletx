@@ -1,6 +1,6 @@
 <h1 align="center"><a href="https://julenetxaniz.eus/en/" target="blank">Julen Etxaniz</a></h1>
 
-<h2 align="center">PhD Student in Language Analysis and Processing at Hitz Zentroa UPV/EHU <br>Graduate in Computer Engineering <br>Master in Language Analysis and Processing</h2>
+<h2 align="center">PhD Student in Language Analysis and Processing at Hitz Zentroa UPV/EHU <br>Working on Improving Language Models for Low-resource Languages.</h2>
 
 <h2 align="center">GitHub Stats</h2>
 
@@ -13,5 +13,5 @@
 <h2 align="center">Top Languages</h2>
 <p align="center"><a href="https://github.com/anuraghazra/github-readme-stats" target="blank"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juletx&layout=compact&langs_count=10&theme=dracula&custom_title=Top%20Languages" alt="Top Languages" /></a></p>
 
-<h2 align="center">Weekly Top Languages</h2>
-<p align="center"><a href="https://github.com/anuraghazra/github-readme-stats" target="blank"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=juletxara&layout=compact&langs_count=10&theme=dracula&custom_title=Weekly%20Top%20Languages" alt="Weekly Top Languages" /></a></p>
+<!--h2 align="center">Weekly Top Languages</h2>
+<p-- align="center"><a href="https://github.com/anuraghazra/github-readme-stats" target="blank"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=juletxara&layout=compact&langs_count=10&theme=dracula&custom_title=Weekly%20Top%20Languages" alt="Weekly Top Languages" /></a></p-->
