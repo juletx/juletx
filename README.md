@@ -5,7 +5,9 @@
 <h2 align="center">GitHub Stats</h2>
 
 <p align="center">
+<a href="https://github.com/anuraghazra/github-readme-stats" target="blank">
 <img src="/profile/stats.svg" alt="GitHub Stats">
+</a>
 </p>
 
 <h2 align="center">GitHub Trophies</h2>
@@ -15,7 +17,9 @@
 <h2 align="center">Top Languages</h2>
 
 <p align="center">
+<a href="https://github.com/anuraghazra/github-readme-stats" target="blank">
 <img src="./profile/top-langs.svg" alt="Top Languages">
+</a>
 </p>
 
 <!--h2 align="center">Weekly Top Languages</h2>
