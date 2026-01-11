@@ -6,7 +6,7 @@
 
 <p align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats" target="blank">
-<img src="/profile/stats.svg" alt="GitHub Stats">
+<img src="./profile/stats.svg" alt="GitHub Stats">
 </a>
 </p>
 
