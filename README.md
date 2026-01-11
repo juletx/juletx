@@ -5,7 +5,7 @@
 <h2 align="center">GitHub Stats</h2>
 
 <p align="center">
-![Stats](./profile/stats.svg)
+<img src="/profile/stats.svg" alt="GitHub Stats">
 </p>
 
 <h2 align="center">GitHub Trophies</h2>
@@ -13,8 +13,9 @@
 <p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy" target="blank"><img src="https://github-profile-trophy-fork-two.vercel.app/?username=juletx&column=4&margin-w=15&margin-h=15&theme=dracula" alt="GitHub Trophies" /></a></p>
 
 <h2 align="center">Top Languages</h2>
+
 <p align="center">
-![Top Languages](./profile/top-langs.svg)
+<img src="./profile/top-langs.svg" alt="Top Languages">
 </p>
 
 <!--h2 align="center">Weekly Top Languages</h2>
