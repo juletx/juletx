@@ -1,8 +1,10 @@
 name: Update README cards
 
 on:
+  # Runs on a schedule - once per week on Monday at 05:00 UTC
   schedule:
-    - cron: "0 0 * * *" # Runs once daily at midnight
+    # Run at 05:00 on Monday
+    - cron: '0 5 * * 1'
   workflow_dispatch:
 
 permissions: {}
