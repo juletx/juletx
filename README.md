@@ -12,7 +12,7 @@
 
 <h2 align="center">GitHub Trophies</h2>
 
-<p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy" target="blank"><img src="https://github-profile-trophy-fork-two.vercel.app/?username=juletx&column=4&margin-w=15&margin-h=15&theme=dracula" alt="GitHub Trophies" /></a></p>
+<p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy" target="blank"><img src="https://github-profile-trophy-fork-two.vercel.app/?username=juletx&column=3&margin-w=15&margin-h=15&theme=dracula" alt="GitHub Trophies" /></a></p>
 
 <h2 align="center">Top Languages</h2>
 
